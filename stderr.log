@@ -1,0 +1,2 @@
+[ ERROR ] Error in file 'd:\OneDrive - Yash Technologies Pvt Ltd\Desktop\RoboCorp Certification 2 use case\tasks.robot' on line 12: Setting variable '${PDF_Path}' failed: Variable '${\}robot-${order}[Order number].pdf' was not closed properly.
+UserWarning: mergePage is deprecated and will be removed in PyPDF2 2.0.0. Use merge_page instead. [_page.py:442]
